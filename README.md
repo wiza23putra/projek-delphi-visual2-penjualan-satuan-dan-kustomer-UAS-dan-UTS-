@@ -1,5 +1,5 @@
 # Project Delphi Aplikasi Penjualan
 
 >[!note]
-> Ahmad Syaifuddin - 2210010111 (Tugas UTS dan UAS)
+> Wiza Pramana Putra - 2210010495 (Tugas UTS dan UAS)
  
