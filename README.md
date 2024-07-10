@@ -1,2 +1,5 @@
-# projek-delphi-visual2-penjualan-satuan-dan-kustomer-UAS-dan-UTS-
-dipergunakan untuk memenuhi UTS dan UAS
+# Project Delphi Aplikasi Penjualan
+
+>[!note]
+> Ahmad Syaifuddin - 2210010111 (Tugas UTS dan UAS)
+ 
